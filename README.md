@@ -1,7 +1,5 @@
 # 360-Video-Animation
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/7COulHYfhcU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=7COulHYfhcU"><img src="https://img.youtube.com/vi/7COulHYfhcU/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
